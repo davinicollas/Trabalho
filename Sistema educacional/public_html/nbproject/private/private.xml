@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/dashboard/tcc/view/usuario/formulario_cadastro.php</file>
+            <file>file:/C:/xampp/htdocs/dashboard/tcc/validarAvaliacao.php</file>
+            <file>file:/C:/xampp/htdocs/dashboard/tcc/index.php</file>
+            <file>file:/C:/xampp/htdocs/dashboard/tcc/view/usuario/fale_conosco.php</file>
+            <file>file:/C:/xampp/htdocs/dashboard/tcc/action/get_avaliacao.php</file>
+            <file>file:/C:/xampp/htdocs/dashboard/tcc/model/usuario/usuario.php</file>
+            <file>file:/C:/xampp/htdocs/dashboard/tcc/view/usuario/formulario_curriculo.php</file>
+            <file>file:/C:/xampp/htdocs/dashboard/tcc/view/usuario/formulario_perfilPublico.php</file>
+            <file>file:/C:/xampp/htdocs/dashboard/tcc/model/usuariohabilidade/curriculo.php</file>
+            <file>file:/C:/xampp/htdocs/dashboard/tcc/model/localidade/cidade.php</file>
+            <file>file:/C:/xampp/htdocs/dashboard/tcc/indice.php</file>
+            <file>file:/C:/xampp/htdocs/dashboard/tcc/login.php</file>
+            <file>file:/C:/xampp/htdocs/dashboard/tcc/validarServico.php</file>
+            <file>file:/C:/xampp/htdocs/dashboard/tcc/view/usuario/formulario_perfilPrivado.php</file>
+            <file>file:/C:/xampp/htdocs/dashboard/tcc/view/usuario/formulario_avaliacao.php</file>
+            <file>file:/C:/xampp/htdocs/dashboard/tcc/view/usuario/formulario_servico.php</file>
+            <file>file:/C:/xampp/htdocs/dashboard/tcc/model/usuariohabilidade/curso.php</file>
+            <file>file:/C:/xampp/htdocs/dashboard/tcc/registro.php</file>
+            <file>file:/C:/xampp/htdocs/dashboard/tcc/curriculo_editar.php</file>
+            <file>file:/C:/xampp/htdocs/dashboard/tcc/action/get_curso.php</file>
+            <file>file:/C:/xampp/htdocs/dashboard/tcc/model/localidade/estado.php</file>
+            <file>file:/C:/xampp/htdocs/dashboard/tcc/editar.php</file>
+            <file>file:/C:/xampp/htdocs/dashboard/tcc/view/usuario/formulario_listar.php</file>
+            <file>file:/C:/xampp/htdocs/dashboard/tcc/css/meuestilo.css</file>
+            <file>file:/C:/xampp/htdocs/dashboard/tcc/model/usuario/usuario_especializacao.php</file>
+            <file>file:/C:/xampp/htdocs/dashboard/tcc/model/servico/servico.php</file>
+            <file>file:/C:/xampp/htdocs/dashboard/tcc/perfilPrivado.php</file>
+            <file>file:/C:/xampp/htdocs/dashboard/tcc/listar.php</file>
+            <file>file:/C:/xampp/htdocs/dashboard/tcc/action/get_cidades.php</file>
+            <file>file:/C:/xampp/htdocs/dashboard/tcc/view/usuario/formulario_editar.php</file>
+            <file>file:/C:/xampp/htdocs/dashboard/tcc/model/usuario/avaliacao.php</file>
+            <file>file:/C:/xampp/htdocs/dashboard/tcc/perfilPublico.php</file>
+        </group>
+    </open-files>
+</project-private>
